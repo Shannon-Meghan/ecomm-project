@@ -1,0 +1,29 @@
+[33mcommit 5770dd68bc28866729da36b4ee401d67841b1be9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yuri <yuri.zmytrakov@gmail.com>
+Date:   Tue Aug 23 14:31:41 2022 -0400
+
+    Homepage Display
+
+[33mcommit fd486fad66cad9d01126a3e4421e11261fceb339[m
+Author: Yuri <yuri.zmytrakov@gmail.com>
+Date:   Mon Aug 22 23:51:34 2022 -0400
+
+    useState
+
+[33mcommit 255be1678d35e20520a5707b520147ea3b9849eb[m
+Author: Yuri <yuri.zmytrakov@gmail.com>
+Date:   Mon Aug 22 20:37:24 2022 -0400
+
+    campsitesSlice
+
+[33mcommit 96d83410017c87daf607e6eb7a81be03e94204cf[m
+Author: Yuri <yuri.zmytrakov@gmail.com>
+Date:   Mon Aug 15 11:42:36 2022 -0400
+
+    week1
+
+[33mcommit 99fc5d9e277cd1cd39feda32ac262f81b78f836d[m
+Author: Yuri <yuri.zmytrakov@gmail.com>
+Date:   Sun Aug 14 23:49:07 2022 -0400
+
+    Initialize project using Create React App
