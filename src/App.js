@@ -35,13 +35,13 @@ function App() {
       {/* <CampsitesDirectoryPage /> */}
       <Routes>
         <Route path='/' element={<HomePage />} />
-        <Route path='contact' element={<ContactPage />} />
+        {/* <Route path='contact' element={<ContactPage />} /> */}
         <Route path='directory' element={<CampsitesDirectoryPage />} />
         <Route
           path='directory/:campsiteId'
           element={<CampsiteDetailsPage />}
         />
-        <Route path='about' element={<AboutPage />} />
+        {/* <Route path='about' element={<AboutPage />} /> */}
       </Routes>
       <Footer />
     </div>
