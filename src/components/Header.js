@@ -39,7 +39,6 @@ const Header = () => {
                                 </NavLink>
                             </NavItem>
                         </Nav>
-                        <UserLoginForm />
                     </Collapse>
                 </div>
             </div>
